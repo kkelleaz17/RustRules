@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    font-family: "Bebas Neue", serif;
+  font-weight: 400;
+  font-style: normal;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column ;
+  color: white;
+  letter-spacing: 2px;
+}
+
+body img{
+    display: none;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(40%);
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+body h2{
+    z-index: 3;
+}
+body h1{
+    z-index: 2;
+    border-bottom: 2px white solid;
+    width: 450px;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 20px 20px;
+}
+
+
+body p {
+    color: white;
+    z-index: 2;
+}

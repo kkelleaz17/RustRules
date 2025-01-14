@@ -1,0 +1,10 @@
+[
+
+    "Don't raid in grub central",
+    "Don't build in grub central",
+    "Fuck players who roof camp",
+    "Don't go in grub central at night",
+    "Don't Take Heli in grub central",
+    "Don't Take Heli in grub central at night"
+  
+]
