@@ -6,5 +6,6 @@
     "Don't go in grub central at night",
     "Don't Take Heli in grub central",
     "Don't Take Heli in grub central at night",
-    "Fuck players who use silencer"
+    "Fuck players who use silencer",
+    "Don't roleplay on the roof of a active raid"
 ]
