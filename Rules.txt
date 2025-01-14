@@ -5,6 +5,6 @@
     "Fuck players who roof camp",
     "Don't go in grub central at night",
     "Don't Take Heli in grub central",
-    "Don't Take Heli in grub central at night"
-  
+    "Don't Take Heli in grub central at night",
+    "Fuck players who use silencer"
 ]
