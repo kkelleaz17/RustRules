@@ -7,5 +7,7 @@
     "Don't Take Heli in grub central",
     "Don't Take Heli in grub central at night",
     "Fuck players who use silencer",
-    "Don't roleplay on the roof of a active raid"
+    "Don't roleplay on the roof of a active raid",
+    "Oxum's Gas Station can not be the main recycler",
+    "Abandoned Supermarket can not be the main recycler"
 ]
