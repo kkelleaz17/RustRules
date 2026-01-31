@@ -10,5 +10,9 @@
     "Don't roleplay on the roof of a active raid",
     "Oxum's Gas Station can not be the main recycler",
     "Abandoned Supermarket can not be the main recycler",
-    "Jungle biome is a no go zone"
+    "Jungle biome is a no go zone",
+    "Don't raid grubs that have heavy pot",
+    "Don't do excavator at night",
+    "Don't do excavator in grub central"
 ]
+
